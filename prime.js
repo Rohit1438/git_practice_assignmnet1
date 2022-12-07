@@ -9,6 +9,5 @@ if(num%i==0){
 }
   if(count==2){
     console.log("Prime")
-  }else{
-    console.log("Not prime")
   }
+  
